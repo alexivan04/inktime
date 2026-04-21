@@ -1,4 +1,4 @@
-````markdown
+
 # InkTime – Open Source Smartwatch Hardware Project
 
 ## Overview
@@ -12,7 +12,6 @@ The project includes:
 - documentation and design decisions
 - validation and review updates
 
----
 
 ## Repository Structure
 
